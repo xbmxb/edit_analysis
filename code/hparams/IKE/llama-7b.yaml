@@ -1,0 +1,8 @@
+alg_name: "IKE"
+model_name: "/data/maxb/tag/model_cache/llama-ckpt/llama-2-7b-chat-hf"
+sentence_model_name: '/data/maxb/all-MiniLM'
+device: 0
+results_dir: "./results"
+
+k: 16
+model_parallel: false
